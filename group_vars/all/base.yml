@@ -23,8 +23,8 @@ base_system_tools:
   - fdupes
   - gnome-calculator
   - gufw
-  - nala    # alternative package management tool to apt/apt-get
-  - network-manager-openvpn-gnome
+#  - nala    # alternative package management tool to apt/apt-get
+#  - network-manager-openvpn-gnome
   - openvpn
   - progress
   - pwgen
@@ -51,9 +51,9 @@ base_download_tools:
 
 base_developer_tools:
   - 2to3
-  - android-sdk-platform-tools-common
-  - android-tools-adb
-  - android-tools-fastboot
+#  - android-sdk-platform-tools-common
+#  - android-tools-adb
+#  - android-tools-fastboot
   - ansible
   - ansible-lint
   - apostrophe
